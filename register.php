@@ -41,11 +41,6 @@ if(isset($_POST["btn"])){
 
 <body>
     <div class="main">
-        <div class="logos">
-            <a href="index.php">
-                <img src="logo.PNG" alt="Home">
-            </a>
-        </div>
         <div class="box2"><br><br>
             <div class="headers1">
                 <h2>Register</h2><br><br>
